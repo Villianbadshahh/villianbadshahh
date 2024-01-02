@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/villianbadshahh/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/villianbadshahh)
+[<img src="https://photos.app.goo.gl/mrL1oqt1B5meNPYa9"/>](https://github.com/villianbadshahh)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
