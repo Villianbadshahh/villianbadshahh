@@ -1,4 +1,4 @@
-<h1> <img  style="align-item" :"center" src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 🦋⃟ BRAND VILLIAN🥀🦋‌•─‌⃛≛⃝🦅 </h1>
+<h1> <img  style="align-item" :"center" src="https://te.legra.ph/file/715bf6a70ee8dac0b396a.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 🦋⃟ BRAND VILLIAN🥀🦋‌•─‌⃛≛⃝🦅 </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/villianbadshahh/count.svg" />
