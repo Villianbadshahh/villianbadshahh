@@ -9,7 +9,7 @@
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=villianbadshahh &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADHAN474&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/villianbadshahh)
+[<img src="https://github-readme-stats.vercel.app/api?username=villianbadshahh &count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Villianbadshahh &theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/villianbadshahh)
 
 [<img src="https://github.com/villianbadshahh/villianbadshahh/blob/master/resources/hr.gif"/>](https://github.com/villianbadshahh)
 
@@ -30,8 +30,9 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PRADHAN474&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRADHAN474&layout=compact&theme=midnight-purple&hide=Css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Villianbadshahh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Villianbadshahh
+&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=villianbadshahh)
 
